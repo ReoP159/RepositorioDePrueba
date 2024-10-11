@@ -1,3 +1,4 @@
 ### Repositorio de Prueba
 
-Este es un repositorio para ver c+Ûmo fiunciona github
+Este es un repositorio para ver como fiunciona github
+Esta es una linea m√°s
